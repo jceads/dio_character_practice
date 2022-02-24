@@ -26,7 +26,10 @@ class RickandmortiesView extends RickandmortiesViewModel {
         },
         itemCount: models.length,
       ),
-      floatingActionButton: FloatingActionButton(onPressed: fetchAllData),
+      floatingActionButton: FloatingActionButton(
+        onPressed: fetchAllData,
+        child: Icon(Icons.get_app),
+      ),
     );
   }
 }
