@@ -1,16 +1,8 @@
 # dio_character_test
 
-A new Flutter project.
+Made with flutter for practicing with getting data from api
 
 ## Getting Started
+In this app, I implement code that fetch data from [Ricky And Morty api](https://rickandmortyapi.com/api/character). Here is the Screenshots:
++ <img src ="https://user-images.githubusercontent.com/44341663/155594077-bdf95ac7-6f7c-40e7-a0f4-d0391a07dabd.png" width =350/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
