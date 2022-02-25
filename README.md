@@ -1,4 +1,4 @@
-# dio_character_test
+# Dio practice with Rick and Morty Api 
 
 Made with flutter for practicing with getting data from api
 
