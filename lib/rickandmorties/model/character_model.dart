@@ -77,7 +77,4 @@ class BaseResponseCharacter extends BaseResponseModel {
   factory BaseResponseCharacter.fromJson(Map<String, dynamic> json) {
     return _$BaseResponseCharacterFromJson(json);
   }
-  // factory BaseResponseCharacter.fromJson(Map<String,dynamic> json){
-  //   return
-  // }
 }
